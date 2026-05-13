@@ -1,0 +1,73 @@
+body {
+    background-color: rgb(211, 152, 211);
+}
+
+h1 {
+    color: rgb(234, 223, 26);
+    text-align: center;
+    font-style: bold;
+    font-family: 'Trebuchet MS';
+    font-size: 50px;
+}
+
+.lefttext {
+    font: bold;
+    font-family: sans-serif;
+    color: rgb(15, 47, 232);
+    font-size: 40px;
+}
+
+.righttext {
+    font: bold;
+    font-family: sans-serif;
+    color: rgb(22, 224, 15);
+    font-size: 50px;
+}
+
+.mainSection {
+    display: flex;
+
+    justify-content: center;
+
+    align-items: center;
+
+    gap: 100px;
+
+    margin-top: 80px;
+}
+
+.dollcontainer {
+    width: 350px;
+    height: 300px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+.doll1 {
+    width: 300px; 
+    cursor: pointer;
+}
+
+.doll2 {
+    width: 200px;
+    cursor: pointer;
+}
+
+.doll3 {
+    width: 100px;
+    cursor: pointer;
+} 
+
+.hidden {
+    display: none;
+}
+
+.da {
+    font-size: 50px;
+    color: rgb(238, 19, 19);
+    font-style: italic;
+    font-family: "Lucida Calligraphy";
+    text-align: center;
+}
+
