@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(210, 96, 210);
+    background-color: rgb(211, 152, 211);
 }
 
 h1 {
     color: rgb(234, 223, 26);
     text-align: center;
-    font-style: italic;
+    font-style: bold;
     font-family: 'Trebuchet MS';
     font-size: 50px;
 }
@@ -13,14 +13,14 @@ h1 {
 .lefttext {
     font: bold;
     font-family: sans-serif;
-    color: mediumaquamarine;
+    color: rgb(15, 47, 232);
     font-size: 40px;
 }
 
 .righttext {
     font: bold;
     font-family: sans-serif;
-    color: mediumaquamarine;
+    color: rgb(22, 224, 15);
     font-size: 50px;
 }
 
@@ -38,6 +38,7 @@ h1 {
 
 .dollcontainer {
     width: 350px;
+    height: 300px;
     margin-top: 40px;
     text-align: center;
 }
@@ -64,9 +65,9 @@ h1 {
 
 .da {
     font-size: 50px;
-    color: rgb(210, 234, 26);
+    color: rgb(238, 19, 19);
     font-style: italic;
-    font-family: 'Trebuchet MS';
+    font-family: "Lucida Calligraphy";
     text-align: center;
 }
 
